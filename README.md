@@ -5,6 +5,7 @@ A macropad to accompany my mac and my keyboard 'Clackintosh'
 - 8 mechanical keys
 - Rotary encoder for volume up/down _ its switch as mute button
 - 0.91" SSD1306 OLED display
+- per-key RGB light
 - Xiao RP2040 and KMK firmware
 
 Each key launches a different app on macOS, the rotary encoder controls volume, and the OLED provides live feedback.
